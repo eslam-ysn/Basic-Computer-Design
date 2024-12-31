@@ -1,2 +1,11 @@
-# Basic-Computer-Design
-Basic Computer Design using Verilog HDL (hardware description language) , this design includes every thing needed to have a working version of basic computer , they can be summarised as (registers , control unit , data path, and their consequences),the parameters and vauiables related to computer interrupt have been added for testing purposes only, the code may be editted in the future to have a fully functional interrupt, in the near future there gonna be more enhancement on the code performance and structure, any questions related to this project you can contanct me on IG : eslam_ysn.
+This project focuses on Basic Computer Design using Verilog HDL (Hardware Description Language). The design includes all essential components required for a functional basic computer, which can be summarized as:
+
+Registers
+Control Unit
+Data Path
+Supporting Components
+Parameters and variables related to computer interrupts have been added for testing purposes only. The code might be edited in the future to include a fully functional interrupt system.
+
+In the near future, there will be further enhancements to improve code performance and structure.
+
+If you have any questions regarding this project or similar topics, feel free to reach out to me on Instagram: @eslam_ysn.
