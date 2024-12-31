@@ -11,4 +11,4 @@ Parameters and variables related to computer interrupts have been added for test
 
 In the near future, there will be further enhancements to improve code performance and structure.
 
-If you have any questions regarding this project or similar topics, feel free to reach out to me on Instagram: @eslam_ysn.
+If you have any questions regarding this project or similar topics, feel free to reach out to me on Instagram or Discord : @eslam_ysn.
