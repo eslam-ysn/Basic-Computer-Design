@@ -1,0 +1,200 @@
+zzzz
+2096  //LDA direct (load accumulator) 
+0097  //AND direct
+1098  //ADD direct
+30bc  //STA direct (store accumulator)
+5063  //BSA direct (branch and save return address)
+609b  //ISZ direct (increment and skip if zero)
+4019  //BUN direct (branch unconditionally)
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+a07c  //LDA indirect 
+807d  //AND indirect
+907e  //ADD indirect
+b07f  //STA indirect
+d080  //BSA indirect
+e081  //ISZ indirect
+zzzz
+7800  //CLA (clear accumulator) register reference 
+7400  //CLE (clear E) register reference 
+7200  //CMA (complement accumulator) register reference 
+7100  //CME (complement E) register reference 
+7080  //CIR (circulate right AC and E) register reference 
+7040  //CIL (circulate left AC and E) register reference 
+7020  //INC (increment AC) register reference 
+7010  //SPA (skip next instr. if AC is positive) register reference 
+7008  //SNA (skip next instr. if AC is negative) register reference 
+7004  //SZA (skip next instr. if AC is zero) register reference 
+7002  //SZE (skip next instr. if E is zero) register reference 
+7001  //HLT (halt computer) register reference 
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz  //pc value indirect BSA
+1098  //ADD direct
+c055  //address of pc BUN indirect
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz  // pc stored here BCA
+0099  //AND direct
+109a  //ADD direct
+c063  //BUN indirect
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+00a0  //address for data (indirect)
+00a1  //address for data (indirect)
+00a2  //address for data (indirect)
+00a3  //address for data (indirect)
+0055  //address for instruction BSA (indirect)
+00a4  //address for data (indirect)
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz 
+a61d  //data direct
+8409  //data direct
+7ba1  //data direct
+bb1a  //data direct
+1234  //data direct
+7b44  //data direct
+zzzz
+zzzz
+zzzz
+zzzz
+121a  //data indirect
+3ab9  //data indirect
+fa91  //data indirect
+zzzz  //accumulator value STA (indirect)
+0000  //data indirect	
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz  //AC value stored here STA
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
+zzzz
