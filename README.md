@@ -3,7 +3,7 @@ This project focuses on Basic Computer Design using Verilog HDL (Hardware Descri
 Registers, 
 Control Unit, 
 Data Path, 
-and Supporting Components
+and Supporting Components. 
 Parameters and variables related to computer interrupts have been added for testing purposes only. The code might be edited in the future to include a fully functional interrupt system.
 
 In the near future, there will be further enhancements to improve code performance and structure.
