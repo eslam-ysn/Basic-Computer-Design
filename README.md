@@ -5,7 +5,7 @@ Control Unit,
 Data Path, 
 and Supporting Components. 
 
-Some registers clocks have been modeified or relesed to assure timing and accurate result.
+Some registers clocks have been modified or relesed to assure timing and accurate result.
 
 Parameters and variables related to computer interrupts have been added for testing purposes only. The code might be edited in the future to include a fully functional interrupt system.
 
